@@ -20,7 +20,7 @@
 
 ## Сведения об участниках
 ### Автор
-- Pavel Yen - [GitHub](https://github.com/fizitra/)
+- Pavel Yen - [GitHub](https://github.com/fizitra/), [Telegram](https://t.me/paulenin)
 
 Проект был выполнен в рамках курса ["Разведочный анализ данных и основы разработки"](https://stepik.org/course/177213), предлагаемого [AI Education](https://stepik.org/users/628121134).
 
