@@ -9,11 +9,22 @@
 ## Содержание
 
 - [Описание проекта](#описание-проекта)
-- [Files](#files)
-- [Dataset](#dataset)
-- [ML Model](#ml-model)
-- [Deployment](#deployment)
-- [How to Install and Run the Project](#how-to-install-and-run-the-project)
-- [How to Use the Project](#how-to-use-the-project)
-- [Include Credits](#include-credits)
-- [License](#license)
+- [Файлы]()
+- [Данные]()
+- [Модель]()
+- [Развертывание]()
+- [Установка и запуск проекта]()
+- [Рекомендации по использованию]()
+- [Сведения об участниках]()
+- [Лицензия]()
+
+## Сведения об участниках
+### Автор
+- Pavel Yen - [GitHub](https://github.com/fizitra/)
+
+Проект был выполнен в рамках курса ["Разведочный анализ данных и основы разработки"](https://stepik.org/course/177213), предлагаемого [AI Education](https://stepik.org/users/628121134).
+
+
+## Лицензия
+
+Этот проект распространяется под лицензией MIT. Дополнительные сведения см. в файле [LICENSE](/LICENSE)
